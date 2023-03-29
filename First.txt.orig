@@ -1,0 +1,7 @@
+This is the first comment
+<<<<<<< HEAD
+this is feature1
+=======
+
+this is feature 2
+>>>>>>> F2
